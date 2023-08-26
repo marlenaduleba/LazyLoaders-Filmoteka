@@ -1,6 +1,6 @@
 # Filmoteka by LazyLoaders
 
-![screenshot](https://github.com/marlenaduleba/LazyLoaders-Filmoteka/blob/main/filmoteka.png)
+![screenshot](https://github.com/marlenaduleba/LazyLoaders-Filmoteka/blob/main/Filmoteka.png)
 
 Filmoteka by LazyLoaders is a project we worked on during the Fullstack Developer course at GoIT. Our application aims to make it easier to discover and keep track of interesting films and organize movie nights with friends.
 
